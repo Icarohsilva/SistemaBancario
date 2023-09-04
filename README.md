@@ -35,7 +35,7 @@ Este é um programa simples em Python que simula as operações básicas de uma 
 
 ## Autor
 
-[Icaro Henrique]
+Icaro Henrique
 
 ## Licença
 
